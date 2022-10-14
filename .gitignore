@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,macos,webstorm+all,intellij+all,windows,git
 # 工程模版不传上去
 template/
+config.json
 ### Git ###
 # Created by git for backups. To disable backups in Git:
 # $ git config --global mergetool.keepBackup false
